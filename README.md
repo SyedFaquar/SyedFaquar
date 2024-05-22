@@ -1,9 +1,13 @@
 <div align="center">
 
-# Hey there, I'm Syed
+## Hey there, I'm Syed
 
-# 💫 About Me:
-Welcome to my digital playground! I'm driven by the limitless potential of data-driven <br>solutions to inspire innovation and create meaningful change in society. <br>My passion lies at the intersection of Machine Learning, Data Engineering, and Big Data. <br>I'm constantly expanding my knowledge and skills in these fields, <br>eager to tackle impactful projects and push the boundaries of what's possible.
+### 💫 About Me:
+Welcome to my digital playground! I'm driven by the limitless potential of data-driven solutions to inspire innovation and create meaningful change in society.My passion lies at the intersection of Machine Learning, Data Engineering, and Big Data. I'm constantly expanding my knowledge and skills in these fields, eager to tackle impactful projects and push the boundaries of what's possible.
+
+here is the my resume: Resume
+
+please do check out my personal portfolio: SyedFaquar.github.io
 
 </div>
 
@@ -12,8 +16,7 @@ Welcome to my digital playground! I'm driven by the limitless potential of data-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/syed-faquar-quadri/) 
 
 
-
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
@@ -54,7 +57,7 @@ Welcome to my digital playground! I'm driven by the limitless potential of data-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SyedFaquar&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SyedFaquar&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedFaquar&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedFaquar&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 
 
@@ -66,5 +69,3 @@ Welcome to my digital playground! I'm driven by the limitless potential of data-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SyedFaquar&icon=0&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
