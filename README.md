@@ -5,10 +5,9 @@
 ### 💫 About Me:
 Welcome to my digital playground! I'm driven by the limitless potential of data-driven solutions to inspire innovation and create meaningful change in society.My passion lies at the intersection of Machine Learning, Data Engineering, and Big Data. I'm constantly expanding my knowledge and skills in these fields, eager to tackle impactful projects and push the boundaries of what's possible.
 
-here is the my resume: Resume
-
-please do check out my personal portfolio: SyedFaquar.github.io
-
+**Website:** [SyedFaquar.github.io](https://SyedFaquar.github.io) - Dive into my portfolio and see my journey so far.<br/>
+**Resume:** [View My Resume](https://github.com/SyedFaquar/SyedFaquar/blob/main/Syed_resume.pdf) - Discover my qualifications and professional experiences in detail.<br/>
+**GitHub:** [Additional Projects](https://github.com/syed-faquar) - Check out more of my projects and contributions on my secondary GitHub account.<br/>
 </div>
 
 
