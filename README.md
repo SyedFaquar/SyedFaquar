@@ -65,5 +65,4 @@ Welcome to my digital playground! I'm driven by the limitless potential of data-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=SyedFaquar&icon=0&color=4)](https://visitcount.itsvg.in)
+
